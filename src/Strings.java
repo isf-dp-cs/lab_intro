@@ -44,7 +44,6 @@ public class Strings {
 
         for (int i = 0; i <= 10; i++) {
             String newFormat = "\u001b[48;5;" + 0 + "m";
-        }
-
+            }
     }
 }
