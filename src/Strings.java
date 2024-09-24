@@ -34,7 +34,6 @@ public class Strings {
         then practice printing to the terminal using the codes you added
         */
 
-
         /* TODO:
         Edit the loop below so that it will give an example
         of every possible background color
